@@ -11,7 +11,7 @@ Dataset
 
 
 * Source: Kaggle – Layoffs Dataset
-* Description: Contains company-wise layoff data including industry,
+* Description: Contains company-wise layoff data, including industry,
 location, total layoffs, funding, and dates.
 
 
@@ -45,7 +45,7 @@ Data Cleaning Process
 
 Outcome
 
-* Cleaned and structured dataset ready for exploratory data analysis
+* Cleaned and structured the dataset ready for exploratory data analysis
 (EDA)
 * Improved data consistency, accuracy, and usability
 
@@ -56,5 +56,6 @@ Usage
 3. Use the cleaned dataset for further analysis or visualization
 
 Author
+
 Ayush Rag
 
